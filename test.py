@@ -2,7 +2,7 @@ from datetime import datetime
 from sqlalchemy import create_engine
 engine = create_engine('postgresql://yugabyte@localhost:5433/bi_automation')
 conn = engine.connect()
-
+# new change
 def id_generate():
     newimport_id = lambda : str(datetime.now().year)+(str(datetime.now().month).zfill(2))+'01'
     getid = 'select max(import_id) from live_data ;'
