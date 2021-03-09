@@ -1,4 +1,5 @@
 # ZapBot handling
+# ZapBot handling
 ## Steps for setting up the Flask app
 
 -  Web scraping to be done prior to find the class_id of the product
