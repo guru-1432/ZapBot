@@ -14,3 +14,8 @@ Testing
 -  mins 2
 
 ` Code here `
+
+ ``` python
+ for i in x :
+  print(i)
+ ```
