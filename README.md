@@ -12,3 +12,4 @@ Testing
  ```
  
  [I'm an inline-style link](https://www.google.com "Google homepage")
+ <http://www.example.com>
