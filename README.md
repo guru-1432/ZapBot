@@ -10,6 +10,8 @@ This application is to automate the process of checking the price manualy and ge
 ## prerequisite:
 - Python 3.5
 - Install all the requirement from requirement.txt using the below code (Creating a virtual environment is recomended)
+
+
  ` pip intall -r requirement.txt`
 
 ## Updating the config file:
